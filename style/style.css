@@ -1,0 +1,27 @@
+body {
+    font-family: sans-serif;
+}
+.header-nav {
+    text-align: center;
+    margin-bottom: 30px;
+  }
+  .header-info, .sel-city{
+    text-align: center;
+}
+.header-nav li, .header-info li {
+    display: inline;
+  }
+  .header-nav li a{
+    padding: 10px;
+    background: cornsilk;
+    text-decoration: none;
+    color: #0c0c0c;
+  }
+
+  .img-logo{
+      display: inline-block;
+      float: left;
+  }
+  .header-text{
+      text-align: center;
+  }
